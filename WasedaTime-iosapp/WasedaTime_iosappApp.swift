@@ -11,7 +11,7 @@ import SwiftUI
 struct WasedaTime_iosappApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            OnboardingView()
         }
     }
 }
