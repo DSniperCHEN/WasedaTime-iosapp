@@ -11,6 +11,21 @@
 		8577B42E2663E41100EB6D06 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8577B42D2663E41100EB6D06 /* ContentView.swift */; };
 		8577B4302663E41200EB6D06 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8577B42F2663E41200EB6D06 /* Assets.xcassets */; };
 		8577B4332663E41200EB6D06 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8577B4322663E41200EB6D06 /* Preview Assets.xcassets */; };
+		8577B43C2663F82000EB6D06 /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8577B43B2663F82000EB6D06 /* OnboardingView.swift */; };
+		8577B43E2663F85E00EB6D06 /* BackgroundHomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8577B43D2663F85E00EB6D06 /* BackgroundHomeView.swift */; };
+		8577B4422663F8D700EB6D06 /* SideMainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8577B4412663F8D700EB6D06 /* SideMainView.swift */; };
+		8577B4442663F8F800EB6D06 /* SideTabButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8577B4432663F8F800EB6D06 /* SideTabButton.swift */; };
+		8577B4462663F91800EB6D06 /* SideCustomCorners.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8577B4452663F91800EB6D06 /* SideCustomCorners.swift */; };
+		8577B4482663F93100EB6D06 /* SideMenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8577B4472663F93100EB6D06 /* SideMenu.swift */; };
+		8577B44A2663F94600EB6D06 /* SideHomeTab.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8577B4492663F94600EB6D06 /* SideHomeTab.swift */; };
+		8577B44D2663F97E00EB6D06 /* TabBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8577B44C2663F97E00EB6D06 /* TabBarView.swift */; };
+		8577B44F2663F99B00EB6D06 /* TabBraViewRouter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8577B44E2663F99B00EB6D06 /* TabBraViewRouter.swift */; };
+		8577B4522663FA0400EB6D06 /* AboutUsContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8577B4512663FA0400EB6D06 /* AboutUsContentView.swift */; };
+		8577B4542663FA1C00EB6D06 /* AboutUsHomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8577B4532663FA1C00EB6D06 /* AboutUsHomeView.swift */; };
+		8577B4562663FA3900EB6D06 /* AboutCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8577B4552663FA3900EB6D06 /* AboutCard.swift */; };
+		8577B4582663FABD00EB6D06 /* AboutUsCarouselView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8577B4572663FABD00EB6D06 /* AboutUsCarouselView.swift */; };
+		8577B45A2663FAF000EB6D06 /* AboutUsCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8577B4592663FAF000EB6D06 /* AboutUsCardView.swift */; };
+		8577B45C2663FB1100EB6D06 /* AboutUsDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8577B45B2663FB1100EB6D06 /* AboutUsDetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +35,21 @@
 		8577B42F2663E41200EB6D06 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8577B4322663E41200EB6D06 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		8577B4342663E41200EB6D06 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8577B43B2663F82000EB6D06 /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
+		8577B43D2663F85E00EB6D06 /* BackgroundHomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundHomeView.swift; sourceTree = "<group>"; };
+		8577B4412663F8D700EB6D06 /* SideMainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SideMainView.swift; sourceTree = "<group>"; };
+		8577B4432663F8F800EB6D06 /* SideTabButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SideTabButton.swift; sourceTree = "<group>"; };
+		8577B4452663F91800EB6D06 /* SideCustomCorners.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SideCustomCorners.swift; sourceTree = "<group>"; };
+		8577B4472663F93100EB6D06 /* SideMenu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SideMenu.swift; sourceTree = "<group>"; };
+		8577B4492663F94600EB6D06 /* SideHomeTab.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SideHomeTab.swift; sourceTree = "<group>"; };
+		8577B44C2663F97E00EB6D06 /* TabBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarView.swift; sourceTree = "<group>"; };
+		8577B44E2663F99B00EB6D06 /* TabBraViewRouter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBraViewRouter.swift; sourceTree = "<group>"; };
+		8577B4512663FA0400EB6D06 /* AboutUsContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutUsContentView.swift; sourceTree = "<group>"; };
+		8577B4532663FA1C00EB6D06 /* AboutUsHomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutUsHomeView.swift; sourceTree = "<group>"; };
+		8577B4552663FA3900EB6D06 /* AboutCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutCard.swift; sourceTree = "<group>"; };
+		8577B4572663FABD00EB6D06 /* AboutUsCarouselView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutUsCarouselView.swift; sourceTree = "<group>"; };
+		8577B4592663FAF000EB6D06 /* AboutUsCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutUsCardView.swift; sourceTree = "<group>"; };
+		8577B45B2663FB1100EB6D06 /* AboutUsDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutUsDetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +82,9 @@
 		8577B42A2663E41100EB6D06 /* WasedaTime-iosapp */ = {
 			isa = PBXGroup;
 			children = (
+				8577B4502663F9F200EB6D06 /* About */,
+				8577B43F2663F8A200EB6D06 /* Features */,
+				8577B43A2663F7CF00EB6D06 /* Fundation */,
 				8577B42B2663E41100EB6D06 /* WasedaTime_iosappApp.swift */,
 				8577B42D2663E41100EB6D06 /* ContentView.swift */,
 				8577B42F2663E41200EB6D06 /* Assets.xcassets */,
@@ -67,6 +100,58 @@
 				8577B4322663E41200EB6D06 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		8577B43A2663F7CF00EB6D06 /* Fundation */ = {
+			isa = PBXGroup;
+			children = (
+				8577B43B2663F82000EB6D06 /* OnboardingView.swift */,
+				8577B43D2663F85E00EB6D06 /* BackgroundHomeView.swift */,
+			);
+			path = Fundation;
+			sourceTree = "<group>";
+		};
+		8577B43F2663F8A200EB6D06 /* Features */ = {
+			isa = PBXGroup;
+			children = (
+				8577B44B2663F96400EB6D06 /* TabBarMenu */,
+				8577B4402663F8AC00EB6D06 /* sideBarMenu */,
+			);
+			path = Features;
+			sourceTree = "<group>";
+		};
+		8577B4402663F8AC00EB6D06 /* sideBarMenu */ = {
+			isa = PBXGroup;
+			children = (
+				8577B4412663F8D700EB6D06 /* SideMainView.swift */,
+				8577B4432663F8F800EB6D06 /* SideTabButton.swift */,
+				8577B4452663F91800EB6D06 /* SideCustomCorners.swift */,
+				8577B4472663F93100EB6D06 /* SideMenu.swift */,
+				8577B4492663F94600EB6D06 /* SideHomeTab.swift */,
+			);
+			path = sideBarMenu;
+			sourceTree = "<group>";
+		};
+		8577B44B2663F96400EB6D06 /* TabBarMenu */ = {
+			isa = PBXGroup;
+			children = (
+				8577B44C2663F97E00EB6D06 /* TabBarView.swift */,
+				8577B44E2663F99B00EB6D06 /* TabBraViewRouter.swift */,
+			);
+			path = TabBarMenu;
+			sourceTree = "<group>";
+		};
+		8577B4502663F9F200EB6D06 /* About */ = {
+			isa = PBXGroup;
+			children = (
+				8577B4512663FA0400EB6D06 /* AboutUsContentView.swift */,
+				8577B4532663FA1C00EB6D06 /* AboutUsHomeView.swift */,
+				8577B4552663FA3900EB6D06 /* AboutCard.swift */,
+				8577B4572663FABD00EB6D06 /* AboutUsCarouselView.swift */,
+				8577B4592663FAF000EB6D06 /* AboutUsCardView.swift */,
+				8577B45B2663FB1100EB6D06 /* AboutUsDetailView.swift */,
+			);
+			path = About;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -138,8 +223,23 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8577B43C2663F82000EB6D06 /* OnboardingView.swift in Sources */,
 				8577B42E2663E41100EB6D06 /* ContentView.swift in Sources */,
+				8577B4442663F8F800EB6D06 /* SideTabButton.swift in Sources */,
+				8577B4482663F93100EB6D06 /* SideMenu.swift in Sources */,
+				8577B44A2663F94600EB6D06 /* SideHomeTab.swift in Sources */,
+				8577B44F2663F99B00EB6D06 /* TabBraViewRouter.swift in Sources */,
+				8577B45C2663FB1100EB6D06 /* AboutUsDetailView.swift in Sources */,
+				8577B4582663FABD00EB6D06 /* AboutUsCarouselView.swift in Sources */,
+				8577B4462663F91800EB6D06 /* SideCustomCorners.swift in Sources */,
+				8577B45A2663FAF000EB6D06 /* AboutUsCardView.swift in Sources */,
+				8577B4562663FA3900EB6D06 /* AboutCard.swift in Sources */,
 				8577B42C2663E41100EB6D06 /* WasedaTime_iosappApp.swift in Sources */,
+				8577B4522663FA0400EB6D06 /* AboutUsContentView.swift in Sources */,
+				8577B4422663F8D700EB6D06 /* SideMainView.swift in Sources */,
+				8577B4542663FA1C00EB6D06 /* AboutUsHomeView.swift in Sources */,
+				8577B44D2663F97E00EB6D06 /* TabBarView.swift in Sources */,
+				8577B43E2663F85E00EB6D06 /* BackgroundHomeView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
