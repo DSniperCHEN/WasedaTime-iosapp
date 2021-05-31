@@ -30,12 +30,10 @@ App is under construction. Currently this section is yet to be completed. We wil
 
 <img src="doc/review image.png" alt="home view" width=35%/>
 <br>
-<br>
 
 ### side menu view
 
 <img src="doc/review image 2.png" alt="side menu view" width=35%/>
-<br>
 <br>
 
 ### feature view
