@@ -26,11 +26,22 @@ Click run icon on the top left
 ## App review
 App is under construction. Currently this section is yet to be completed. We will update it as frequent as possible.
 
+### home view
+
 <img src="doc/review image.png" alt="home view" width=35%/>
+<br>
+<br>
+
+### side menu view
 
 <img src="doc/review image 2.png" alt="side menu view" width=35%/>
+<br>
+<br>
+
+### feature view
 
 <img src="doc/review image 3.png" alt="feature view" width=35%/>
-
+<br>
+<br>
 
 
