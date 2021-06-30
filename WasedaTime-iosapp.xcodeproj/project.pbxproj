@@ -26,6 +26,13 @@
 		8577B4582663FABD00EB6D06 /* AboutUsCarouselView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8577B4572663FABD00EB6D06 /* AboutUsCarouselView.swift */; };
 		8577B45A2663FAF000EB6D06 /* AboutUsCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8577B4592663FAF000EB6D06 /* AboutUsCardView.swift */; };
 		8577B45C2663FB1100EB6D06 /* AboutUsDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8577B45B2663FB1100EB6D06 /* AboutUsDetailView.swift */; };
+		85D6FC92268C862E002DAF41 /* BusView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85D6FC91268C862E002DAF41 /* BusView.swift */; };
+		85D6FC94268C89D3002DAF41 /* LoginContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85D6FC93268C89D3002DAF41 /* LoginContentView.swift */; };
+		85D6FC96268C8A08002DAF41 /* WaveView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85D6FC95268C8A08002DAF41 /* WaveView.swift */; };
+		85D6FC98268C8C17002DAF41 /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85D6FC97268C8C17002DAF41 /* LoginView.swift */; };
+		85D6FC9A268C8E13002DAF41 /* TimeTableContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85D6FC99268C8E13002DAF41 /* TimeTableContentView.swift */; };
+		85D6FC9C268C8E5D002DAF41 /* PhototTrial.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85D6FC9B268C8E5D002DAF41 /* PhototTrial.swift */; };
+		85D6FC9E268C8E85002DAF41 /* SyllabusContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85D6FC9D268C8E85002DAF41 /* SyllabusContentView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -50,6 +57,13 @@
 		8577B4572663FABD00EB6D06 /* AboutUsCarouselView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutUsCarouselView.swift; sourceTree = "<group>"; };
 		8577B4592663FAF000EB6D06 /* AboutUsCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutUsCardView.swift; sourceTree = "<group>"; };
 		8577B45B2663FB1100EB6D06 /* AboutUsDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutUsDetailView.swift; sourceTree = "<group>"; };
+		85D6FC91268C862E002DAF41 /* BusView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BusView.swift; sourceTree = "<group>"; };
+		85D6FC93268C89D3002DAF41 /* LoginContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginContentView.swift; sourceTree = "<group>"; };
+		85D6FC95268C8A08002DAF41 /* WaveView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WaveView.swift; sourceTree = "<group>"; };
+		85D6FC97268C8C17002DAF41 /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
+		85D6FC99268C8E13002DAF41 /* TimeTableContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimeTableContentView.swift; sourceTree = "<group>"; };
+		85D6FC9B268C8E5D002DAF41 /* PhototTrial.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhototTrial.swift; sourceTree = "<group>"; };
+		85D6FC9D268C8E85002DAF41 /* SyllabusContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SyllabusContentView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +96,10 @@
 		8577B42A2663E41100EB6D06 /* WasedaTime-iosapp */ = {
 			isa = PBXGroup;
 			children = (
+				85D6FC90268C7EA3002DAF41 /* timetable */,
+				85D6FC8F268C7E9C002DAF41 /* syllabus */,
+				85D6FC8D268C7E6C002DAF41 /* login */,
+				85D6FC8C268C7E5C002DAF41 /* campus */,
 				8577B4502663F9F200EB6D06 /* About */,
 				8577B43F2663F8A200EB6D06 /* Features */,
 				8577B43A2663F7CF00EB6D06 /* Fundation */,
@@ -152,6 +170,41 @@
 				8577B45B2663FB1100EB6D06 /* AboutUsDetailView.swift */,
 			);
 			path = About;
+			sourceTree = "<group>";
+		};
+		85D6FC8C268C7E5C002DAF41 /* campus */ = {
+			isa = PBXGroup;
+			children = (
+				85D6FC91268C862E002DAF41 /* BusView.swift */,
+			);
+			path = campus;
+			sourceTree = "<group>";
+		};
+		85D6FC8D268C7E6C002DAF41 /* login */ = {
+			isa = PBXGroup;
+			children = (
+				85D6FC93268C89D3002DAF41 /* LoginContentView.swift */,
+				85D6FC95268C8A08002DAF41 /* WaveView.swift */,
+				85D6FC97268C8C17002DAF41 /* LoginView.swift */,
+			);
+			path = login;
+			sourceTree = "<group>";
+		};
+		85D6FC8F268C7E9C002DAF41 /* syllabus */ = {
+			isa = PBXGroup;
+			children = (
+				85D6FC9B268C8E5D002DAF41 /* PhototTrial.swift */,
+				85D6FC9D268C8E85002DAF41 /* SyllabusContentView.swift */,
+			);
+			path = syllabus;
+			sourceTree = "<group>";
+		};
+		85D6FC90268C7EA3002DAF41 /* timetable */ = {
+			isa = PBXGroup;
+			children = (
+				85D6FC99268C8E13002DAF41 /* TimeTableContentView.swift */,
+			);
+			path = timetable;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -225,19 +278,26 @@
 			files = (
 				8577B43C2663F82000EB6D06 /* OnboardingView.swift in Sources */,
 				8577B42E2663E41100EB6D06 /* ContentView.swift in Sources */,
+				85D6FC9A268C8E13002DAF41 /* TimeTableContentView.swift in Sources */,
 				8577B4442663F8F800EB6D06 /* SideTabButton.swift in Sources */,
 				8577B4482663F93100EB6D06 /* SideMenu.swift in Sources */,
 				8577B44A2663F94600EB6D06 /* SideHomeTab.swift in Sources */,
 				8577B44F2663F99B00EB6D06 /* TabBraViewRouter.swift in Sources */,
 				8577B45C2663FB1100EB6D06 /* AboutUsDetailView.swift in Sources */,
 				8577B4582663FABD00EB6D06 /* AboutUsCarouselView.swift in Sources */,
+				85D6FC94268C89D3002DAF41 /* LoginContentView.swift in Sources */,
 				8577B4462663F91800EB6D06 /* SideCustomCorners.swift in Sources */,
 				8577B45A2663FAF000EB6D06 /* AboutUsCardView.swift in Sources */,
+				85D6FC96268C8A08002DAF41 /* WaveView.swift in Sources */,
+				85D6FC9C268C8E5D002DAF41 /* PhototTrial.swift in Sources */,
 				8577B4562663FA3900EB6D06 /* AboutCard.swift in Sources */,
 				8577B42C2663E41100EB6D06 /* WasedaTime_iosappApp.swift in Sources */,
 				8577B4522663FA0400EB6D06 /* AboutUsContentView.swift in Sources */,
+				85D6FC9E268C8E85002DAF41 /* SyllabusContentView.swift in Sources */,
+				85D6FC98268C8C17002DAF41 /* LoginView.swift in Sources */,
 				8577B4422663F8D700EB6D06 /* SideMainView.swift in Sources */,
 				8577B4542663FA1C00EB6D06 /* AboutUsHomeView.swift in Sources */,
+				85D6FC92268C862E002DAF41 /* BusView.swift in Sources */,
 				8577B44D2663F97E00EB6D06 /* TabBarView.swift in Sources */,
 				8577B43E2663F85E00EB6D06 /* BackgroundHomeView.swift in Sources */,
 			);
