@@ -20,11 +20,17 @@ struct TabBarView: View {
                 case .home:
                     SideMainView()
                 case .timetable:
-                    Text("Favourites")
+                    NavigationView{
+                         TimetableContentView()
+                    }
                 case .syllabus:
-                    Text("Records")
+                    NavigationView{
+                         SyllabusContentView()
+                    }
                 case .user:
-                    Text("Profile")
+                    NavigationView{
+                         LoginContentView()
+                    }
                 }
                 Spacer()
                 ZStack {
